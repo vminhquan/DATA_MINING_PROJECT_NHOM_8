@@ -1,0 +1,17 @@
+# Bỏ qua dữ liệu
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Bỏ qua các file môi trường ảo và cache
+.env
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Bỏ qua các model đã train (nếu quá nặng)
+outputs/models/*
+!outputs/models/.gitkeep

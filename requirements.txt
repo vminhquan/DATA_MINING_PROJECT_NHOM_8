@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+papermill
+pyyaml
+nltk
+mlxtend          # Dùng cho thuật toán Apriori (Luật kết hợp)
+hdbscan          # Dùng cho phân cụm nâng cao (nếu không dùng K-means)
