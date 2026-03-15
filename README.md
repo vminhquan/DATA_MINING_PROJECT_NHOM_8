@@ -54,6 +54,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 4. Hướng dẫn Chạy Dự án (How to Run)
+
 Bước 1: Chuẩn bị Dữ liệu
 Tải tập dữ liệu Datafiniti_Hotel_Reviews.csv từ Kaggle.
 Đặt file dữ liệu đã tải (ví dụ: 7282_1.csv) vào thư mục data/raw/ .
