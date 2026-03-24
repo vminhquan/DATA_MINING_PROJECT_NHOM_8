@@ -1,6 +1,5 @@
 # Bỏ qua dữ liệu
-data/raw/*
-data/processed/*
+!data/**
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
