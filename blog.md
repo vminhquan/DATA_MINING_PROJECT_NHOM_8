@@ -70,5 +70,7 @@ Việc ứng dụng Khai phá dữ liệu văn bản (Text Mining) và NLP khôn
 
 Thành viên thực hiện:
 👨‍💻 [Kiều Quang Trường]: Thiết kế kiến trúc Pipeline, Tối ưu thuật toán & Tiền xử lý NLP.
+
 📊 [Võ Minh Quân]: Phân tích luật kết hợp (Association Rules), Insight & Chiến lược kinh doanh.
+
 ✍️ [Tô Vi Đức]: Huấn luyện mô hình Bán giám sát (Semi-supervised) & Trực quan hóa dữ liệu.
